@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="253,116,0,0" VerticalAlignment="Top" Width="273" RenderTransformOrigin="1.673,1.78" Height="118"/>
+        <Button Content="enave button" HorizontalAlignment="Left" Margin="340,297,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.11,0.776" Click="Button_Click"/>
 
     </Grid>
 </Window>
